@@ -67,6 +67,11 @@ public class Object {
 		
 	}
 	
+//	public personal personal() {
+//		personal pers1 = new personal(driver,logger);
+//		return pers1;
+//	}
+	
 	
 	public extraPage extraPage() {
 		extraPage extrPage = new extraPage(driver, logger);

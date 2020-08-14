@@ -25,7 +25,7 @@ public class loginPage {
 
 		OBJECT.utility().URL("http://13.68.151.15/MatexTesting/Default.aspx");
 		OBJECT.utility().sendKey("id", "txtUsername", "demotl");
-		OBJECT.utility().sendKey("id", "txtPassword", "Jul@2020");
+		OBJECT.utility().sendKey("id", "txtPassword", "Aug@2020");
 		OBJECT.utility().clickElement("id", "btnLogin");
 		String title = OBJECT.utility().getTitle();
 		System.out.println("Title of page is " + title);

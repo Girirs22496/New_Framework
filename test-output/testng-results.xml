@@ -2,20 +2,20 @@
 <testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-08-12T11:30:08 IST" name="Default suite" finished-at="2020-08-12T11:30:57 IST" duration-ms="48985">
+  <suite started-at="2020-08-14T18:34:18 IST" name="Default suite" finished-at="2020-08-14T18:42:54 IST" duration-ms="516087">
     <groups>
     </groups>
-    <test started-at="2020-08-12T11:30:08 IST" name="Default test" finished-at="2020-08-12T11:30:57 IST" duration-ms="48985">
+    <test started-at="2020-08-14T18:34:18 IST" name="Default test" finished-at="2020-08-14T18:42:54 IST" duration-ms="516087">
       <class name="DAIMLER.Validation.TestNG.FlowTestng">
-        <test-method is-config="true" signature="beforeSuit()[pri:0, instance:DAIMLER.Validation.TestNG.FlowTestng@6f10d5b6]" started-at="2020-08-12T11:30:08 IST" name="beforeSuit" finished-at="2020-08-12T11:30:08 IST" duration-ms="208" status="PASS">
+        <test-method is-config="true" signature="beforeSuit()[pri:0, instance:DAIMLER.Validation.TestNG.FlowTestng@6f10d5b6]" started-at="2020-08-14T18:34:18 IST" name="beforeSuit" finished-at="2020-08-14T18:34:18 IST" duration-ms="195" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuit -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:DAIMLER.Validation.TestNG.FlowTestng@6f10d5b6]" started-at="2020-08-12T11:30:08 IST" name="setUp" finished-at="2020-08-12T11:30:14 IST" duration-ms="6061" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:DAIMLER.Validation.TestNG.FlowTestng@6f10d5b6]" started-at="2020-08-14T18:34:18 IST" name="setUp" finished-at="2020-08-14T18:34:24 IST" duration-ms="5723" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:DAIMLER.Validation.TestNG.FlowTestng@6f10d5b6]" started-at="2020-08-12T11:30:14 IST" name="setup" finished-at="2020-08-12T11:30:14 IST" duration-ms="16" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:DAIMLER.Validation.TestNG.FlowTestng@6f10d5b6]" started-at="2020-08-14T18:34:24 IST" name="setup" finished-at="2020-08-14T18:34:24 IST" duration-ms="13" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -26,11 +26,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="test()[pri:0, instance:DAIMLER.Validation.TestNG.FlowTestng@6f10d5b6]" started-at="2020-08-12T11:30:14 IST" name="test" finished-at="2020-08-12T11:30:56 IST" duration-ms="42443" status="PASS">
+        <test-method signature="test()[pri:0, instance:DAIMLER.Validation.TestNG.FlowTestng@6f10d5b6]" started-at="2020-08-14T18:34:24 IST" name="test" finished-at="2020-08-14T18:42:54 IST" duration-ms="509990" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method is-config="true" signature="tearDown(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:DAIMLER.Validation.TestNG.FlowTestng@6f10d5b6]" started-at="2020-08-12T11:30:56 IST" name="tearDown" finished-at="2020-08-12T11:30:56 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:DAIMLER.Validation.TestNG.FlowTestng@6f10d5b6]" started-at="2020-08-14T18:42:54 IST" name="tearDown" finished-at="2020-08-14T18:42:54 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -46,11 +46,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:DAIMLER.Validation.TestNG.FlowTestng@6f10d5b6]" started-at="2020-08-12T11:30:56 IST" name="tearDown" finished-at="2020-08-12T11:30:57 IST" duration-ms="430" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:DAIMLER.Validation.TestNG.FlowTestng@6f10d5b6]" started-at="2020-08-14T18:42:54 IST" name="tearDown" finished-at="2020-08-14T18:42:54 IST" duration-ms="332" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="afterSuite()[pri:0, instance:DAIMLER.Validation.TestNG.FlowTestng@6f10d5b6]" started-at="2020-08-12T11:30:57 IST" name="afterSuite" finished-at="2020-08-12T11:30:58 IST" duration-ms="783" status="PASS">
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:DAIMLER.Validation.TestNG.FlowTestng@6f10d5b6]" started-at="2020-08-14T18:42:54 IST" name="afterSuite" finished-at="2020-08-14T18:42:55 IST" duration-ms="845" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->
