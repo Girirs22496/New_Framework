@@ -100,17 +100,17 @@ public class FlowTestng {
 	@Test()
 	public void test() throws FileNotFoundException, IOException, InterruptedException {
 		
-		for (int i = 0; i < 20 ; i++)
-		{
+//		for (int i = 0; i < 20 ; i++)
+//		{
 		OBJECT.loginPage().loginPage();
 		OBJECT.caseReg().caseReg();
 		OBJECT.dataEntryTl().dataentrytl();
 		OBJECT.dataEntryTm().dataEntryTm();
-		i++;
+//		i++;
 		
 		//code by giri
 	}
-	}
+//	}
 	
 	@Test(enabled = false)
 	public void testCase_00() throws FileNotFoundException, IOException {

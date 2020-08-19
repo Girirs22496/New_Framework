@@ -167,7 +167,7 @@ public class Utility {
 
 		SendKeyEntr.sendKeys(Values);
 		
-		Thread.sleep(2000);
+		Thread.sleep(3000);
 		
 		SendKeyEntr.sendKeys(Keys.DOWN);
 		SendKeyEntr.sendKeys(Keys.ENTER);
